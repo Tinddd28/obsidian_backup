@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Go/Основы многопоточности.md",
+                "file": "Golang/vie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b01bd834106edb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d70e8689ab43674c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/road in greid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Go/Основы многопоточности.md",
+                "file": "Education/road in greid.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Go/Основы многопоточности.md",
+                "file": "Education/road in greid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Go/Основы многопоточности.md"
+                "file": "Education/road in greid.md"
               }
             }
           }
@@ -146,11 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad4d283e265f637e",
+  "active": "d70e8689ab43674c",
   "lastOpenFiles": [
+    "Работа с реляционными базами данных.md",
     "Education/road in greid.md",
+    "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
     "Education/Go/Основы многопоточности.md",
+    "Education/Go/files_mutlitreads/fan_int.png",
+    "Education/Go/files_mutlitreads/fan_out.png",
+    "Golang/Устройство Map.md",
+    "Golang/Pasted image 20240823221654.png",
+    "Golang/vie.md",
     "Python/pyrus api.md",
+    "Education/Go/files_mutlitreads/code of pattern.md",
+    "Education/Go/files_mutlitreads",
+    "Education/Go/files_mutlitreads/stop_cran.png",
+    "Education/Go/main.go",
+    "Education/Go/files_mutlitreads/konveer_multhread.png",
+    "Education/Go/files_mutlitreads/konveer.png",
+    "Education/Go/files_mutlitreads/erorr_in_goroutine.png",
     "Education/DevOps/Базовый курс по Kubentetes (devops).md",
     "Education/C++/Рабочее окружение бэкэнд-разработчика (C++).md",
     "Education/Go",
@@ -159,10 +198,8 @@
     "Python",
     "Education/C++",
     "Education/DevOps",
-    "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
     "Education",
     "Python/Python.md",
-    "Golang/vie.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Golang"
