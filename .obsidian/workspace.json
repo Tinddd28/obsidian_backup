@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "873fc6129daa4d33",
+        "id": "9d43826a352451f4",
         "type": "tabs",
         "children": [
           {
-            "id": "ad4d283e265f637e",
+            "id": "68e51c6797eec418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/vie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b01bd834106edb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d70e8689ab43674c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/road in greid.md",
+                "file": "ProgSchool/план.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "642875db7d9e1d11",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/road in greid.md",
+                "file": "ProgSchool/план.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/road in greid.md",
+                "file": "ProgSchool/план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/road in greid.md"
+                "file": "ProgSchool/план.md"
               }
             }
           }
@@ -171,17 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70e8689ab43674c",
+  "active": "68e51c6797eec418",
   "lastOpenFiles": [
-    "Работа с реляционными базами данных.md",
     "Education/road in greid.md",
+    "ProgSchool/план.md",
+    "WEB3/time on web3.md",
+    "WEB3/tasks.md",
+    "TODO.md",
+    "Golang/vie.md",
     "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
+    "Pasted image 20240901235943.png",
+    "Golang/backend masterclass.md",
+    "Untitled.md",
+    "ProgSchool",
+    "WEB3",
+    "Golang/imgs/Pasted image 20240901215506.png",
+    "ProgSchool/Pasted image 20240901171457.png",
+    "Golang/imgs/Pasted image 20240823221654.png",
+    "Golang/imgs",
+    "Education/Go/Работа с реляционными базами данных.md",
     "Education/Go/Основы многопоточности.md",
     "Education/Go/files_mutlitreads/fan_int.png",
     "Education/Go/files_mutlitreads/fan_out.png",
     "Golang/Устройство Map.md",
-    "Golang/Pasted image 20240823221654.png",
-    "Golang/vie.md",
     "Python/pyrus api.md",
     "Education/Go/files_mutlitreads/code of pattern.md",
     "Education/Go/files_mutlitreads",
@@ -201,7 +188,6 @@
     "Education",
     "Python/Python.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Golang"
+    "Untitled.canvas"
   ]
 }
