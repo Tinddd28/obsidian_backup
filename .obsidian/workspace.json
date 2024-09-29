@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9d43826a352451f4",
+        "id": "f7ccbb17ab628594",
         "type": "tabs",
         "children": [
           {
-            "id": "68e51c6797eec418",
+            "id": "7504b4772136ce60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgSchool/план.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "002c2fdf51cbc2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Диплом/Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgSchool/план.md",
+                "file": "Диплом/Plan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgSchool/план.md",
+                "file": "Диплом/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgSchool/план.md"
+                "file": "Диплом/Plan.md"
               }
             }
           }
@@ -146,47 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68e51c6797eec418",
+  "active": "002c2fdf51cbc2a1",
   "lastOpenFiles": [
-    "Education/road in greid.md",
-    "ProgSchool/план.md",
-    "WEB3/time on web3.md",
-    "WEB3/tasks.md",
     "TODO.md",
-    "Golang/vie.md",
-    "Education/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
+    "Диплом/Plan.md",
+    "Pasted image 20240923152536.png",
+    "Pasted image 20240923152513.png",
     "Pasted image 20240901235943.png",
-    "Golang/backend masterclass.md",
-    "Untitled.md",
-    "ProgSchool",
-    "WEB3",
-    "Golang/imgs/Pasted image 20240901215506.png",
-    "ProgSchool/Pasted image 20240901171457.png",
-    "Golang/imgs/Pasted image 20240823221654.png",
-    "Golang/imgs",
-    "Education/Go/Работа с реляционными базами данных.md",
-    "Education/Go/Основы многопоточности.md",
-    "Education/Go/files_mutlitreads/fan_int.png",
-    "Education/Go/files_mutlitreads/fan_out.png",
-    "Golang/Устройство Map.md",
-    "Python/pyrus api.md",
-    "Education/Go/files_mutlitreads/code of pattern.md",
-    "Education/Go/files_mutlitreads",
-    "Education/Go/files_mutlitreads/stop_cran.png",
-    "Education/Go/main.go",
-    "Education/Go/files_mutlitreads/konveer_multhread.png",
-    "Education/Go/files_mutlitreads/konveer.png",
-    "Education/Go/files_mutlitreads/erorr_in_goroutine.png",
-    "Education/DevOps/Базовый курс по Kubentetes (devops).md",
-    "Education/C++/Рабочее окружение бэкэнд-разработчика (C++).md",
-    "Education/Go",
+    "Диплом",
+    "mine.md",
+    "Education/Golang/Go/Основы многопоточности.md",
+    "ProgSchool/план.md",
+    "WEB3/tasks.md",
+    "WEB3/tableswithqueris.md",
+    "ВУЗ/Теория вычислительных процессов.md",
+    "ВУЗ/ТВП лекции/2 лекция.md",
+    "Education/Golang/Road.md",
+    "рацион.md",
+    "ВУЗ/ТВП лекции/3 лекция.md",
+    "Education/Golang/Устройство Map.md",
+    "WEB3/tables.md",
     "Education/C++/Элегантность кода. Наследование и полиморфизм.md",
     "Education/C++/Элегантность кода. Умные указатели (C++).md",
-    "Python",
-    "Education/C++",
-    "Education/DevOps",
-    "Education",
-    "Python/Python.md",
+    "Education/C++/Рабочее окружение бэкэнд-разработчика (C++).md",
+    "Education/Golang/vie.md",
+    "Education/Golang/Go/Работа с реляционными базами данных.md",
+    "Education/Golang/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
+    "Education/Python/Python.md",
+    "Education/road in greid.md",
+    "ВУЗ/ТВП лекции",
+    "WEB3/TODO.md",
+    "ВУЗ",
+    "WEB3/time on web3.md",
+    "Education/Golang/backend masterclass.md",
+    "ProgSchool",
+    "WEB3",
+    "Education/Golang/imgs/Pasted image 20240901215506.png",
+    "ProgSchool/Pasted image 20240901171457.png",
+    "Education/Golang/imgs/Pasted image 20240823221654.png",
+    "Education/Golang/imgs",
+    "Education/Golang/Go/files_mutlitreads/fan_int.png",
+    "Education/Golang/Go/files_mutlitreads/fan_out.png",
+    "Education/Python/pyrus api.md",
+    "Education/Golang/Go/files_mutlitreads",
+    "Education/Golang/Go/files_mutlitreads/stop_cran.png",
+    "Education/Go/main.go",
+    "Education/Golang/Go/files_mutlitreads/konveer_multhread.png",
+    "Education/Golang/Go",
+    "Education/Python",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
