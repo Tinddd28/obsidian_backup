@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7504b4772136ce60",
+            "id": "8b1d29be8156bb3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "002c2fdf51cbc2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Диплом/Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диплом/Plan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диплом/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Диплом/Plan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,9 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002c2fdf51cbc2a1",
+  "active": "e715bf2eb795e3c7",
   "lastOpenFiles": [
     "TODO.md",
+    "ВУЗ/ТВП лекции/6 лекция.md",
+    "ВУЗ/ТВП лекции/2 лекция.md",
+    "ВУЗ/ТВП лекции/5 лекция.md",
+    "Частный случай Туэ Аксель.md",
+    "Untitled.md",
+    "ВУЗ/ТВП лекции/3 лекция.md",
     "Диплом/Plan.md",
     "Pasted image 20240923152536.png",
     "Pasted image 20240923152513.png",
@@ -173,10 +158,8 @@
     "WEB3/tasks.md",
     "WEB3/tableswithqueris.md",
     "ВУЗ/Теория вычислительных процессов.md",
-    "ВУЗ/ТВП лекции/2 лекция.md",
     "Education/Golang/Road.md",
     "рацион.md",
-    "ВУЗ/ТВП лекции/3 лекция.md",
     "Education/Golang/Устройство Map.md",
     "WEB3/tables.md",
     "Education/C++/Элегантность кода. Наследование и полиморфизм.md",
@@ -188,10 +171,7 @@
     "Education/Python/Python.md",
     "Education/road in greid.md",
     "ВУЗ/ТВП лекции",
-    "WEB3/TODO.md",
     "ВУЗ",
-    "WEB3/time on web3.md",
-    "Education/Golang/backend masterclass.md",
     "ProgSchool",
     "WEB3",
     "Education/Golang/imgs/Pasted image 20240901215506.png",
@@ -200,7 +180,6 @@
     "Education/Golang/imgs",
     "Education/Golang/Go/files_mutlitreads/fan_int.png",
     "Education/Golang/Go/files_mutlitreads/fan_out.png",
-    "Education/Python/pyrus api.md",
     "Education/Golang/Go/files_mutlitreads",
     "Education/Golang/Go/files_mutlitreads/stop_cran.png",
     "Education/Go/main.go",
