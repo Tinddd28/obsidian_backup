@@ -11,8 +11,12 @@
             "id": "8b1d29be8156bb3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/ТВП лекции/7 лекция.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ВУЗ/ТВП лекции/7 лекция.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ВУЗ/ТВП лекции/7 лекция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ВУЗ/ТВП лекции/7 лекция.md"
+              }
             }
           }
         ]
@@ -138,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e715bf2eb795e3c7",
+  "active": "8b1d29be8156bb3b",
   "lastOpenFiles": [
-    "TODO.md",
-    "ВУЗ/ТВП лекции/6 лекция.md",
-    "ВУЗ/ТВП лекции/2 лекция.md",
     "ВУЗ/ТВП лекции/5 лекция.md",
-    "Частный случай Туэ Аксель.md",
+    "ВУЗ/ТВП лекции/6 лекция.md",
+    "ВУЗ/ТВП лекции/7 лекция.md",
     "Untitled.md",
+    "TODO.md",
+    "ВУЗ/ТВП лекции/2 лекция.md",
+    "Частный случай Туэ Аксель.md",
     "ВУЗ/ТВП лекции/3 лекция.md",
     "Диплом/Plan.md",
     "Pasted image 20240923152536.png",
@@ -169,7 +178,6 @@
     "Education/Golang/Go/Работа с реляционными базами данных.md",
     "Education/Golang/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
     "Education/Python/Python.md",
-    "Education/road in greid.md",
     "ВУЗ/ТВП лекции",
     "ВУЗ",
     "ProgSchool",
