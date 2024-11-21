@@ -1,0 +1,1 @@
+1) https://youtu.be/3D_h2RE0o0E?si=BtW-GXOfPyQ_Sx3t - implementing Scientific paper in C

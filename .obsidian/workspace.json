@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/ТВП лекции/7 лекция.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ВУЗ/ТВП лекции/7 лекция.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ВУЗ/ТВП лекции/7 лекция.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/ТВП лекции/7 лекция.md"
-              }
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -148,18 +164,32 @@
   },
   "active": "8b1d29be8156bb3b",
   "lastOpenFiles": [
-    "ВУЗ/ТВП лекции/5 лекция.md",
-    "ВУЗ/ТВП лекции/6 лекция.md",
-    "ВУЗ/ТВП лекции/7 лекция.md",
+    "ВУЗ/IADNMO/Pasted image 20241121152519.png",
+    "ВУЗ/IADNMO.zip",
+    "ВУЗ/IADNMO/Pasted image 20241121152534.png",
+    "ВУЗ/IADNMO/Теория.md",
+    "ВУЗ/IADNMO/Pasted image 20241121155743.png",
+    "ВУЗ/IADNMO/Pasted image 20241121153331.png",
+    "ВУЗ/IADNMO/Pasted image 20241121153311.png",
+    "ВУЗ/IADNMO/Pasted image 20241121152751.png",
+    "ВУЗ/IADNMO/Pasted image 20241121152241.png",
+    "ВУЗ/IADNMO/Pasted image 20241121152224.png",
+    "ВУЗ/IADNMO/Pasted image 20241121152131.png",
+    "ВУЗ/IADNMO/Lecture.md",
     "Untitled.md",
-    "TODO.md",
+    "ВУЗ/ТВП лекции/6 лекция.md",
+    "ВУЗ/ТВП лекции/5 лекция.md",
+    "ВУЗ/ТВП лекции/7 лекция.md",
+    "temporary.md",
     "ВУЗ/ТВП лекции/2 лекция.md",
-    "Частный случай Туэ Аксель.md",
+    "ВУЗ/ТВП лекции/10 лекция (18.11.2024).md",
+    "videos.md",
+    "ВУЗ/IADNMO",
     "ВУЗ/ТВП лекции/3 лекция.md",
+    "TODO.md",
+    "Частный случай Туэ Аксель.md",
     "Диплом/Plan.md",
     "Pasted image 20240923152536.png",
-    "Pasted image 20240923152513.png",
-    "Pasted image 20240901235943.png",
     "Диплом",
     "mine.md",
     "Education/Golang/Go/Основы многопоточности.md",
@@ -172,28 +202,13 @@
     "Education/Golang/Устройство Map.md",
     "WEB3/tables.md",
     "Education/C++/Элегантность кода. Наследование и полиморфизм.md",
-    "Education/C++/Элегантность кода. Умные указатели (C++).md",
-    "Education/C++/Рабочее окружение бэкэнд-разработчика (C++).md",
-    "Education/Golang/vie.md",
-    "Education/Golang/Go/Работа с реляционными базами данных.md",
-    "Education/Golang/Go/Создание основы web-приложения с помощью стандартной библиотеки.md",
-    "Education/Python/Python.md",
     "ВУЗ/ТВП лекции",
     "ВУЗ",
     "ProgSchool",
     "WEB3",
-    "Education/Golang/imgs/Pasted image 20240901215506.png",
-    "ProgSchool/Pasted image 20240901171457.png",
-    "Education/Golang/imgs/Pasted image 20240823221654.png",
     "Education/Golang/imgs",
-    "Education/Golang/Go/files_mutlitreads/fan_int.png",
-    "Education/Golang/Go/files_mutlitreads/fan_out.png",
     "Education/Golang/Go/files_mutlitreads",
-    "Education/Golang/Go/files_mutlitreads/stop_cran.png",
     "Education/Go/main.go",
-    "Education/Golang/Go/files_mutlitreads/konveer_multhread.png",
-    "Education/Golang/Go",
-    "Education/Python",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
